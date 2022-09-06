@@ -7,3 +7,5 @@ const words = ["there", "what", "hello", "whatup"]
 words.forEach(word => {
     console.log(word)
 });
+
+console.log("check out my controls")
